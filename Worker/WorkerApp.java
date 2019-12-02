@@ -34,7 +34,5 @@ public class WorkerApp {
         System.out.println();
 
         System.out.println(workers.findWorker(h3));
-
-
     }
 }
